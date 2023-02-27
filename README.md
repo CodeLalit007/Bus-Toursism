@@ -15,7 +15,7 @@ Requirements
 - GCC / G++ Compiler
 - C / C++ IDE
 
-*Note : Code Blocks IDE is preffered*
+*Note : Code Blocks IDE is preferred*
 
 
 Build / Run
@@ -23,7 +23,7 @@ Build / Run
  - Create a new project in IDE and configure the compiler.
  - Add conio.h, conio2.h as header files
  - Add main.cpp, user_panel.cpp, admin_panel.cpp as source file
- - comiple the project
+ - compile the project
  - Hit run
  
  
